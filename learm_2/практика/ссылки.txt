@@ -1,0 +1,15 @@
+Форматирование текста
+Пример: https://metanit.com/web/html5/2.3.php
+
+
+Работа с изображениями
+https://metanit.com/web/html5/2.4.php
+
+
+Списки
+Пример: https://metanit.com/web/html5/2.5.php
+
+
+
+Ссылки
+Пример: https://metanit.com/web/html5/2.9.php

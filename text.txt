@@ -1,7 +1,3 @@
-
-
-
-
 PHOTO
 https://cetera.ru/uploads/20210430/christina-wocintechchat-com-6Dv3pe-JnSg-unsplash%20(1)%20(1).jpg
 
@@ -23,8 +19,8 @@ https://cetera.ru/uploads/20210430/christina-wocintechchat-com-6Dv3pe-JnSg-unspl
 
 
 =============== example ==========
-img 
-width > ширина 
+img
+width > ширина
 height >  высота
 
 

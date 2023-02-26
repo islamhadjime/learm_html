@@ -1,0 +1,36 @@
+
+
+
+
+PHOTO
+https://cetera.ru/uploads/20210430/christina-wocintechchat-com-6Dv3pe-JnSg-unsplash%20(1)%20(1).jpg
+
+
+Иван Иванов
+
+разработчик с опыт полгода. Знаю HTML5
+
+Главня Пример
+
+
+Хорошо делаю блок для сайта
+Например,могу написать для вас таск-трекер, если вам не нравмться все остальное
+
+
+
+Это я за работой
+
+
+
+=============== example ==========
+img 
+width > ширина 
+height >  высота
+
+
+
+1
+https://colorlib.com/wp-content/uploads/sites/2/ronin-free-template.jpg
+
+2
+https://colorlib.com/wp-content/uploads/sites/2/jackson-free-personal-resume-website-template.jpg
